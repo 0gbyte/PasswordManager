@@ -13,6 +13,4 @@ if __name__ == "__main__":
     pm.print_menu()
     pm.open_application(file)
 
-    print("hello")
-
 
